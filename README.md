@@ -41,3 +41,7 @@ These results apply to the checks configured in this educational project and do 
 ## Disclaimer
 
 Educational ASIC implementation project. No fabricated silicon is claimed.
+
+## Final Physical Layout
+
+![32-bit ALU physical layout](images/alu32_layout.png)
